@@ -1,4 +1,4 @@
-# MSWE_Applied-Data-Structure-and-Algorithms
+# MSWE_Data Structure And Algorithms
 
 ## Language:
 Java
